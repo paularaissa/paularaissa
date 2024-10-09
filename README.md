@@ -9,7 +9,6 @@ I’m PhD Informatics Engineering student at <a href="https://sigarra.up.pt/feup
 <h4 align="left">Current Challenges</h4> 
   
 - 📚 Researching about Federated Anomaly Detection over Distributed Data Streams.
-- 📚 Pursuing PhD in Informatics Engineering.
 - 📚 Teaching Programming and Operational Systems.
   
 <h4 align="left">Tools</h4>
@@ -22,6 +21,8 @@ I’m PhD Informatics Engineering student at <a href="https://sigarra.up.pt/feup
   <img align="center" alt="Chris-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
   <img align="center" alt="Chris-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paularaissa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a> 
