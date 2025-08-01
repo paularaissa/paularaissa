@@ -9,7 +9,6 @@ I’m PhD Informatics Engineering student at <a href="https://sigarra.up.pt/feup
 <h4 align="left">Current Challenges</h4> 
   
 - 📚 Researching about Federated Anomaly Detection over Distributed Data Streams.
-- 📚 Teaching Programming and Operational Systems.
   
 <h4 align="left">Tools</h4>
 <div style="display: inline_block">
